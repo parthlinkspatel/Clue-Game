@@ -18,9 +18,9 @@ food will be called items, and one of the characters will be a critic.
 The structure of the game board is a 3 by 3 game board where there are
 9 rooms/restaraunts. 
 _____________
-|_0_|_1_|_2_|
-|_3_|_4_|_5_|
-|_6_|_7_|_8_|
+|_0_|_1_|_2_|  
+|_3_|_4_|_5_|    
+|_6_|_7_|_8_|    
 
 Each of the rooms are connected to each other by pointers. 
 Room 0 is connected to its neighbors, 1 and 3, by east and south. 
