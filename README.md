@@ -6,7 +6,7 @@ command:
 % gcc rooms.c items.c adventure.c -g -o play
 % ./play
 
-Goal of the game:
+# Goal of the game:
 The player of the game is to guess which of the characters is 
 the food critic, and which restaraunt the person is going to eat, and which 
 food he is going to try. restaraunts will be called rooms in this game,
@@ -47,7 +47,7 @@ The method returns the updated list after the item is dropped.
 The addItem also takes in two parameters, the name of the item being added and the list of Items that
 its being added to. This method returns the updated list after.
 
-#adventure.c
+# adventure.c
 This file is where the main method is. This is where all of the function methods are.
 The main method will call helper methods to take input from user. Then it will
 call its respective methods based on its input. 
