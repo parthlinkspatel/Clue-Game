@@ -9,7 +9,7 @@ command:
 # Goal of the game:
 The player of the game is to guess which of the characters is 
 the food critic, and which restaraunt the person is going to eat, and which 
-food he is going to try. restaraunts will be called rooms in this game,
+food he is going to try. Restaraunts will be called rooms in this game,
 food will be called items, and one of the characters will be a critic.
 
 
